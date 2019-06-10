@@ -5,7 +5,8 @@ AndroidAPS currently works with
 - Accu-Chek Combo
 - Accu-Chek Insight
 - DanaR
-- DanaRS  
+- DanaRS
+- Omnipod
 
 pumps. Details of the status of other pumps that may have the potential to work with AndroidAPS are listed on the [Future (possible) Pumps](Future-possible-Pump-Drivers.md) page.
 
@@ -26,3 +27,5 @@ The Combo and the Insight are solid pumps, and loopable. The advantages of the D
 * All pumps AndroidAPS can talk with are waterproof on delivery. Only the Dana pumps are also "waterproof by warranty" due to the sealed battery compartment and reservoir filling system. 
 
 The Combo of course is a very good pump, and loopable. It also has the advantage of many more infusion set types to choose from as it has a standard luer lock. And the battery is a default one you can buy at any gas station, 24 hour convenience store and if you really need one, you can steal/borrow it from the remote control in the hotel room ;-)
+
+The Omnipod is the latest addition to the family of loopable pumps. The advantage of this pump is that it is a patch pump, which some people highly prefer. The disadvantage of it, when you want to use it for looping, is that you need a RileyLink to provide the communication between your phone and the pump.
